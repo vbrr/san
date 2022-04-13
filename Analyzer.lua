@@ -28,7 +28,7 @@ writef([[
 
 writef([[
 
-Edited and maintained by what.#4379
+Edited and maintained by brr#4379
 Type cmds, to load commands
 
 ]])
